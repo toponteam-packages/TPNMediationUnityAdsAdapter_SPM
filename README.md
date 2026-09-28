@@ -17,7 +17,7 @@ The TopOn Unity Ads mediation adapter for iOS, distributed via Swift Package Man
    ```
    https://github.com/toponteam-packages/TPNMediationUnityAdsAdapter_SPM
    ```
-3. Select **Exact Version** and enter the target version (e.g. `4.19.0-2.0`).
+3. Select **Exact Version** and enter the target version (e.g. `41900.2.0`).
 4. Add the `TPNMediationUnityAdsAdapter` product to your app target.
 5. In your target's **Build Settings**, add `-ObjC` to **Other Linker Flags**.
 
@@ -27,7 +27,7 @@ The TopOn Unity Ads mediation adapter for iOS, distributed via Swift Package Man
 dependencies: [
     .package(
         url: "https://github.com/toponteam-packages/TPNMediationUnityAdsAdapter_SPM.git",
-        exact: "4.19.0-2.0"
+        exact: "41900.2.0"
     )
 ]
 ```
