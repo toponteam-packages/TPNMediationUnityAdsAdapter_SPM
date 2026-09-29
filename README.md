@@ -5,7 +5,7 @@ The TopOn Unity Ads mediation adapter for iOS, distributed via Swift Package Man
 ## Requirements
 
 - iOS 13.0+
-- Xcode 15.0+
+- Xcode 16.0+
 - TopOn iOS Core SDK (`TPNiOS`) 6.5.0+
 
 ## Installation
