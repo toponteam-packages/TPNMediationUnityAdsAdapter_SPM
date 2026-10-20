@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AnyThinkUnityAdsAdapter",
-            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/TPN_Release/iosnetwork_2/AnyThinkUnityAdsAdapter/4.19.0.2.0/AnyThinkUnityAdsAdapter-4.19.0.2.0.zip",
-            checksum: "2faaab17c44a62eb08760ad951a677ba2167eeb492c84654d3d77c83efa8b283"
+            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/TPN_Release/iosnetwork_2/AnyThinkUnityAdsAdapter/4.20.1.2.9/AnyThinkUnityAdsAdapter-4.20.1.2.9.zip",
+            checksum: "63ec9a71f23f3b9a7ab2e1153e3fbca6ede923b53715b39217239a3371c6bf81"
         ),
         .target(
             name: "TPNMediationUnityAdsAdapterTarget",
